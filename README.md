@@ -62,7 +62,7 @@ This project serves as a **portfolio-ready demonstration of applied data science
 | Random Forest Regression | **0.95** | **5.21** | **0.045** | Best balance of bias and variance |
 
 ### **Key Insights**
-- **Incident Reports** and **Road Capacity Utilization** were the most influential predictors of congestion.  
+- **Incident Reports**, **Road Capacity Utilization** and **Traffic Volume** were the most influential predictors of congestion.  
 - **Polynomial and Random Forest** models achieved the highest generalization accuracy.  
 - **MAPE ≈ 0.05** implies an average prediction error of just **5%**, indicating strong performance.
 
