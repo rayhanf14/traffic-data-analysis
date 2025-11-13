@@ -1,4 +1,4 @@
-# 🚦 Traffic Congestion Prediction
+# Traffic Congestion Prediction
 
 This project predicts **traffic congestion levels (in percentage)** using real-world urban traffic indicators such as traffic volume, road capacity utilization, average speed, and incident reports. It demonstrates a **complete end-to-end machine learning workflow** — including data preprocessing, feature scaling, model training, hyperparameter tuning, learning curve analysis, and feature importance evaluation.  
 
@@ -6,7 +6,7 @@ The project highlights how **data-driven modeling** can assist in **urban planni
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 The goal of this project is to build a **regression model** capable of accurately estimating **traffic congestion (%)** based on multiple transport and environmental features.  
 The workflow emphasizes:
@@ -51,7 +51,7 @@ This project serves as a **portfolio-ready demonstration of applied data science
 
 ---
 
-## 📊 Results & Insights
+## Results & Insights
 
 | Model | Test R² | RMSE | MAPE | Key Observation |
 |--------|---------|------|------|----------------|
@@ -68,7 +68,7 @@ This project serves as a **portfolio-ready demonstration of applied data science
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 - **Python**  
 - **Pandas, NumPy** — Data processing  
 - **Scikit-learn** — Modeling and evaluation  
@@ -77,7 +77,7 @@ This project serves as a **portfolio-ready demonstration of applied data science
 
 ---
 
-## 🧠 Evaluation Metrics
+## Evaluation Metrics
 - **R² Score** — Measures model’s explanatory power  
 - **RMSE (Root Mean Squared Error)** — Quantifies error magnitude  
 - **MAE (Mean Absolute Error)** — Average deviation from true values  
@@ -85,20 +85,20 @@ This project serves as a **portfolio-ready demonstration of applied data science
 
 ---
 
-## 🔍 Market & Policy Insights
+## Market & Policy Insights
 - Congestion levels correlate strongly with **incident frequency** and **capacity usage**, suggesting infrastructure optimization can significantly reduce delays.  
 - Predictive modeling can help **city planners prioritize high-risk zones** and **optimize signal timing**.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Integrate **real-time traffic sensor data** or **Google Maps API** for dynamic prediction.  
 - Apply **Gradient Boosting / XGBoost** for enhanced performance.  
 - Deploy the model as a **Flask or Streamlit dashboard** for live congestion forecasting.
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 ```
 Traffic-Congestion-Prediction/
 │
@@ -110,7 +110,7 @@ Traffic-Congestion-Prediction/
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone the repository
@@ -126,8 +126,19 @@ jupyter notebook
 
 ---
 
+## Data Source & Credits
+
+**Dataset:** [Bangalore City Traffic Dataset](https://www.kaggle.com/datasets/preethamgouda/banglore-city-traffic-dataset)  
+**Collected by:** Preetham Gouda  
+**License:** CC0: Public Domain  
+**Source:** Kaggle — maintained by [Preetham Gouda](https://www.kaggle.com/preethamgouda)
+
+> The dataset contains real-time traffic statistics across various areas of Bangalore, including factors like traffic volume, incidents, public transport usage, and road capacity.  
+> All rights and ownership belong to the original dataset creator and contributors.
+
 ## Author
 **Rayhan Feroz**  
+*B.Tech CSE (Data Science) @ BMS College of Engineering* 
 
 
 ---
